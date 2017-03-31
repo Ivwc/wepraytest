@@ -49,42 +49,7 @@
 				</div>
 				
 				<?php } ?>
-				<!-- <div id="cp2" class="input-group colorpicker-component colorpicker">
-				    <input type="text" value="<?=$list['color']?>" class="form-control" />
-				    <span class="input-group-addon"><i></i></span>
-				</div>
-				<div id="cp3" class="input-group colorpicker-component colorpicker">
-				    <input type="text" value="<?=$list['color']?>" class="form-control" />
-				    <span class="input-group-addon"><i></i></span>
-				</div>
-				<div id="cp4" class="input-group colorpicker-component colorpicker">
-				    <input type="text" value="<?=$list['color']?>" class="form-control" />
-				    <span class="input-group-addon"><i></i></span>
-				</div>
-				<div id="cp5" class="input-group colorpicker-component colorpicker">
-				    <input type="text" value="<?=$list['color']?>" class="form-control" />
-				    <span class="input-group-addon"><i></i></span>
-				</div>
-				<div id="cp6" class="input-group colorpicker-component colorpicker">
-				    <input type="text" value="<?=$list['color']?>" class="form-control" />
-				    <span class="input-group-addon"><i></i></span>
-				</div>
-				<div id="cp7" class="input-group colorpicker-component colorpicker">
-				    <input type="text" value="<?=$list['color']?>" class="form-control" />
-				    <span class="input-group-addon"><i></i></span>
-				</div>
-				<div id="cp8" class="input-group colorpicker-component colorpicker">
-				    <input type="text" value="<?=$list['color']?>" class="form-control" />
-				    <span class="input-group-addon"><i></i></span>
-				</div>
-				<div id="cp9" class="input-group colorpicker-component colorpicker">
-				    <input type="text" value="<?=$list['color']?>" class="form-control" />
-				    <span class="input-group-addon"><i></i></span>
-				</div>
-				<div id="cp10" class="input-group colorpicker-component colorpicker">
-				    <input type="text" value="<?=$list['color']?>" class="form-control" />
-				    <span class="input-group-addon"><i></i></span>
-				</div> -->
+				
 			</div>
 			<a class="color-submit btn btn-info">送出</a>
 		</div>
