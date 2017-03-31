@@ -1,0 +1,16 @@
+body {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #ddd;
+}
+
+.form-signin {
+  max-width: 400px;
+  padding: 20px;
+  margin: auto;
+}
+.form-register {
+  max-width: 700px;
+  padding: 20px;
+  margin: auto;
+}
