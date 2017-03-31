@@ -18,20 +18,20 @@
 				<a class="btn-back">福務管理</a>
 				<span>
 					<span class="glyphicon glyphicon-menu-right"></span>
-					商品顏色
+					商品颜色
 				</span>
 			</h2>
 			<hr>
 			<div>
 				<?php foreach ($list as $key => $value): ?>
 				<div id="cp<?=$key?>" class="color_area">
-					<p>顏色<?=$key+1?></p>
+					<p>颜色<?=$key+1?></p>
 					<div class="input-group colorpicker-component colorpicker" style="padding: 0px;z-index:1">
 						
 					    <input type="text" value="<?=$value['color']?>" class="form-control color" />
 					    <span class="input-group-addon"><i></i></span>
 					</div>
-					<input type="text" value="<?=$value['name']?>" class="form-control name" placeholder="顏色名字"/>	
+					<input type="text" value="<?=$value['name']?>" class="form-control name" placeholder="颜色名字"/>	
 				</div>
 				
 				<?php endforeach ?>
@@ -45,7 +45,7 @@
 					    <input type="text" value="<?=$value['color']?>" class="form-control color" />
 					    <span class="input-group-addon"><i></i></span>
 					</div>
-					<input type="text" value="<?=$value['name']?>" class="form-control name" placeholder="顏色名字"/>		
+					<input type="text" value="<?=$value['name']?>" class="form-control name" placeholder="颜色名字"/>		
 				</div>
 				
 				<?php } ?>
